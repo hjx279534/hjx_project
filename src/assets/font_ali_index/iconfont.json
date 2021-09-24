@@ -1,0 +1,86 @@
+{
+  "id": "2813321",
+  "name": "qqMusic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3275269",
+      "name": "全民k歌",
+      "font_class": "quanminkge1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "17687952",
+      "name": "直播",
+      "font_class": "zhibo-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1446853",
+      "name": "PC",
+      "font_class": "PC",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2282116",
+      "name": "全民k歌",
+      "font_class": "quanminkge",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "7994054",
+      "name": "super serverice",
+      "font_class": "chaojifuwuhao",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "14848373",
+      "name": "直播 播放 摄像机 观看 面性",
+      "font_class": "zhibobofangshexiangjiguankanmianxing",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "16453245",
+      "name": "Android版",
+      "font_class": "Androidban",
+      "unicode": "e8cc",
+      "unicode_decimal": 59596
+    },
+    {
+      "icon_id": "17992143",
+      "name": "iphone",
+      "font_class": "iphone",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "23689028",
+      "name": "播放，播放器，Play",
+      "font_class": "Play",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "23709366",
+      "name": "Mac",
+      "font_class": "Mac",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "24348479",
+      "name": "iphone",
+      "font_class": "iphone-copy",
+      "unicode": "e8cd",
+      "unicode_decimal": 59597
+    }
+  ]
+}
